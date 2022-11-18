@@ -1,0 +1,8 @@
+$ apt update && apt upgrade
+$ https://github.com/mrdarkdevil73/hack-pattern.git 
+$ Wifi-Brute
+$ cd Wifi-Brute
+$ chmod +x*
+$ python3 wifi-brute.py--help
+$ python3 wifi-brute.py
+$ python3 wifi-brute.py
